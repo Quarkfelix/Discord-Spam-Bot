@@ -22,7 +22,7 @@ public class Main {
 				e.printStackTrace();
 			}
 			
-			write("du keck");
+			write("hab noch was wiedergefunden hahahahahahaha");
 		}
 		
 	}
